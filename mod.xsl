@@ -2,9 +2,22 @@
     <xsl:template match="/root" name="wurui.company-story">
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-company-story" ox-mod="company-story">
-            <h1>
-                This is mod company-story;
-            </h1>
+        	
+            <div class="bg" style="background-image:url({data/ui-imglist/i[1]/img})"></div>
+            <xsl:for-each select="data/info-company/i[1]">
+	            <div class="title">
+	            	<span class="logo" style="background-image:url({logo})"></span>
+	            	<h3>
+	            		<xsl:value-of select="name"/>
+	            	</h3>
+	            	<p>
+	            		<xsl:value-of select="slogan"/>
+	            	</p>
+	            </div>
+	            <div class="intro">
+	            	<xsl:value-of select="introduce" disable-output-escaping="yes" />
+	            </div>
+	        </xsl:for-each>
         </div>
     </xsl:template>
 </xsl:stylesheet>

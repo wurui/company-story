@@ -2,12 +2,13 @@
   "RULE_VERSION":"20180724",
   "name": "company-story",
   "apiDependencies": [
-  {
-    "name": "info-company"
-  },
-  {
-    "name": "ui-imglist"
-  }
-]
+	  {
+	    "name": "info-company",
+	    "selector":"_id"
+	  },
+	  {
+	    "name": "ui-imglist"
+	  }
+	]
 }
 
