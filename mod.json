@@ -3,7 +3,7 @@
   "name": "company-story",
   "apiDependencies": [
 	  {
-	    "name": "the-company",
+	    "name": "the-company"
 	  },
 	  {
 	    "name": "ui-imglist"
