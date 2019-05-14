@@ -1,10 +1,9 @@
 {
-  "RULE_VERSION":"20180724",
+  "RULE_VERSION":"20190428",
   "name": "company-story",
   "apiDependencies": [
 	  {
-	    "name": "info-company",
-	    "selector":"_id"
+	    "name": "the-company",
 	  },
 	  {
 	    "name": "ui-imglist"

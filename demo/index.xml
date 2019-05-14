@@ -20,30 +20,29 @@
                 <img>http://i.oxm1.cc/uploads/git/wurui/img/2a6woz29jTjcfo2jg9R8oklA1ui5-561.jpg</img>
                 <href></href>
             </i>
-
         </ui-imglist>
-        <info-company>
-            <i>
-                <logo>http://i.oxm1.cc/uploads/git/wurui/img/2aeew1jrqTj4xh01y2R0yu6A3ta-1000.png</logo>
-                <name>杭州某某科技有限公司</name>
-                <address>浙江杭州余杭</address>
-                <website>http://www.cenchin.com</website>
-                <introduce>杭州某某科技有限公司，成立于2010年12月，注册资本2000万元，总部坐落于杭州“梦想小镇”。致力于高端激光加工装备的研发和产业化，是国内资本、技术实力较强的高新技术企业。公司核心研发团队既有丰富的海归博士，也有资深外国专家。公司拥有国家认定的企业技术中心。 </introduce>
-                <slogan>SaaS自助建站倡导者</slogan>
-                <contacts>
-                    <i>
-                        <name>客服</name>
-                        <no>kf@cenchin.com</no>
-                        <type>email</type>
-                    </i>
-                    <i>
-                        <name>商务</name>
-                        <no>b@cenchin.com</no>
-                        <type>email</type>
-                    </i>
-                </contacts>
-                <since>1489723200000</since>
-            </i>
-        </info-company>
+        <the-company>
+            
+            <logo>http://i.oxm1.cc/uploads/git/wurui/img/2aeew1jrqTj4xh01y2R0yu6A3ta-1000.png</logo>
+            <name>杭州某某科技有限公司</name>
+            <address>浙江杭州余杭</address>
+            <website>http://www.cenchin.com</website>
+            <description>杭州某某科技有限公司，成立于2010年12月，注册资本2000万元，总部坐落于杭州“梦想小镇”。致力于高端激光加工装备的研发和产业化，是国内资本、技术实力较强的高新技术企业。公司核心研发团队既有丰富的海归博士，也有资深外国专家。公司拥有国家认定的企业技术中心。 </description>
+            <slogan>SaaS自助建站倡导者</slogan>
+            <contacts>
+                <i>
+                    <name>客服</name>
+                    <no>kf@cenchin.com</no>
+                    <type>email</type>
+                </i>
+                <i>
+                    <name>商务</name>
+                    <no>b@cenchin.com</no>
+                    <type>email</type>
+                </i>
+            </contacts>
+            <since>1489723200000</since>
+            
+        </the-company>
     </data>
 </root>
